@@ -3,7 +3,7 @@
 	xmlns:gap = "http://phonegap.com/ns/1.0"
 	id = "com.phonegap.api-request"
 	version ="1.0.0">
-	<name>Richard</name>
+	<name>BrickGame2</name>
 	<preference name ="BrickGame" value ="true"/>
 	<description> This application is my first hybrid application</description>
 	<icon src = "images/a.png"/>
